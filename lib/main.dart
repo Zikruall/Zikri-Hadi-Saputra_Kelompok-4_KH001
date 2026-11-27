@@ -55,7 +55,7 @@ class HomePage extends StatelessWidget {
             AppButton(
               label: 'Buka Github Saya',
               icon: Icons.code,
-              url: 'https://github.com/kvinn-dev',
+              url: 'https://github.com/Zikruall',
             ),
 
             const SizedBox(height: 16),
